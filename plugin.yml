@@ -1,0 +1,5 @@
+name: ZMVariousActivites
+main: com.mzimu.variousactivites.Main
+version: 0.0.1
+commands:
+  zmva:
